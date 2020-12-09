@@ -1,0 +1,10 @@
+x=1
+tot=0
+w=0
+if(x<=100):
+    tot+x
+    x=x+1
+else:
+    w=tot/100
+    print(w)
+    print(tot)
